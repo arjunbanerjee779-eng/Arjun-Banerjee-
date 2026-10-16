@@ -1,0 +1,6 @@
+{
+  "name": "Sanjivani",
+  "description": "Integrated Sadhana, Kartavya, Learning, Personal Growth & Community Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
